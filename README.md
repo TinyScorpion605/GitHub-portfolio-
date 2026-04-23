@@ -6,51 +6,38 @@ Grade 9 student. OSSD in progress.
 
 Coding in Python. Learning Java, HTML and CSS
 
-> **Mission:** Advancing [Specific Branch, e.g., Mechatronics] to architect scalable solutions for [Global Problem]. My focus lies at the intersection of **applied physics** and **autonomous hardware**, transforming theoretical abstractions into high-fidelity prototypes.
+### Grade 9 @ St. Jean de Brébeuf (SJHN) | Aspiring [Specific Engineering Branch] Engineer
+
+> **Mission:** Utilizing [Specific Engineering Branch] to architect scalable solutions for [Global Problem]. I specialize in translating complex theoretical frameworks into functional, high-impact hardware.
 
 ---
 
-### 🧪 Research & Technical Directives
-*   🔭 **Active Development:** Architecting **[Project Name]**, an open-source framework targeting **[Specific Problem]** through [Specific Tech].
-*   🔬 **Independent Inquiry:** Investigating the convergence of [Tech A] and [Tech B] to maximize [Parameter, e.g., thermal efficiency/computational throughput].
-*   🏫 **Institutional Affiliation:** Scholar at **St. Jean de Brébeuf (SJHN)** | Focusing on [Advanced Subject, e.g., Physics/Calculus].
-*   🎯 **Strategic Objective:** Deployment of a validated pilot model for [Competition/Grant] by Q4 2024.
+### 🧪 Research & Technical Directives (Roadmap)
+*   🔬 **Active Inquiry:** Investigating the convergence of [Technology A] and [Technology B] to maximize [Efficiency/Impact].
+*   🔭 **Phase I Development:** Architecting **[Project Name]**, an open-source framework targeting **[Specific Local or Global Problem]**.
+*   🏫 **Institutional Affiliation:** Honors Scholar at **St. Jean de Brébeuf (SJHN)** | [P-TECH Candidate / Robotics Team Member].
+*   🎯 **Strategic Objective:** Deployment of a validated pilot model for **[BASEF / FIRST Robotics]** by Q4 2026.
 
 ---
 
-### 💻 Technical Infrastructure
+### 💻 Technical Infrastructure (Skill Progression)
 
 
 | Domain | Competencies |
 | :--- | :--- |
-| **Physical Systems** | ![Arduino](https://shields.io) ![Raspberry Pi](https://shields.io) ![Onshape](https://shields.io) |
-| **Foundational Logic** | ![Python](https://shields.io) ![C++](https://shields.io) ![JavaScript](https://shields.io) |
-| **Artificial Intelligence**| ![TensorFlow](https://shields.io) ![OpenCV](https://shields.io) |
+| **Physical Systems** | ![Embedded](https://shields.io) ![CAD](https://shields.io) |
+| **Foundational Logic** | ![Python](https://shields.io) ![C++](https://shields.io) |
 
 ---
 
-### 🏆 Engineering Case Studies
-#### 📂 [Project Title - e.g., Autonomous Pathfinding Optimization]
-*   **The Problem:** Current [System] lacks the efficiency to manage [Variable] in real-time environments.
-*   **Methodology:** Engineered a proprietary navigation stack utilizing **C++** and **PID control theory** to mitigate [Specific Error].
-*   **Empirical Impact:** Demonstrated a **[X]%** increase in [Metric] through iterative stress testing.
-*   [**Technical Documentation**](Link) | [**CAD Schematic**](Link)
-
-#### 📂 [Project Title - e.g., Bio-Mechanical Interface Design]
-*   **Innovation:** Synthesized a high-durability prosthetic assembly featuring integrated **haptic sensory feedback**.
-*   **Analytical Highlight:** Applied **multivariable calculus** to optimize torque distribution across the [Part Name].
-
----
-
-### 📈 Contribution Analytics
-<p align="left">
-  <img src="https://vercel.app[YourUsername]&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="400" />
-  <img src="https://vercel.app[YourUsername]&layout=compact&theme=radical&hide_border=true" alt="Langs" width="300" />
-</p>
+### 🔬 Engineering Case Studies
+#### 📂 [Placeholder: Signature Project Name]
+*   **The Problem:** [Identify a community or technical gap you identified at SJHN or in Hamilton].
+*   **Methodology:** Engineered a proprietary [System/Tool] utilizing **[Tech Stack]** and **[Math/Physics Concept]** to mitigate [Specific Issue].
+*   **Empirical Impact:** [Document your results, e.g., "Achieved a 15% efficiency gain in initial testing"].
 
 ---
 
 ### 📫 Professional Correspondence
-- 💼 **Professional Network:** [LinkedIn Link]
-- 📧 **Direct Inquiry:** [Your Email]
-- 📓 **Project Journal:** [Link to Blog/Folder] — *Documenting the iterative design process and technical failures.*
+- 💼 **Professional Network:** [Link to your LinkedIn]
+- 📓 **Research Journal:** [Link to a blog or README folder] — *Documenting iterative design, technical failures, and breakthroughs.*
