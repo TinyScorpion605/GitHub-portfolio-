@@ -41,12 +41,16 @@ Coding in Python. Learning Java, HTML and CSS
 *   **Analytical Highlight:** Applied **multivariable calculus** to optimize torque distribution across the [Part Name].
 
 ---
-Contribution Analytics
+
+### 📈 Contribution Analytics
+<p align="left">
+  <img src="https://vercel.app[YourUsername]&show_icons=true&theme=radical&hide_border=true" alt="Stats" width="400" />
+  <img src="https://vercel.app[YourUsername]&layout=compact&theme=radical&hide_border=true" alt="Langs" width="300" />
+</p>
+
 ---
 
 ### 📫 Professional Correspondence
 - 💼 **Professional Network:** [LinkedIn Link]
 - 📧 **Direct Inquiry:** [Your Email]
 - 📓 **Project Journal:** [Link to Blog/Folder] — *Documenting the iterative design process and technical failures.*
-
-
