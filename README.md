@@ -1,16 +1,14 @@
 # GitHub-portfolio
 
+##
+
 Hello, I am Xaltim (Temporary name)
 
 Grade 9 student. OSSD in progress.
 
-Coding in Python. Learning Java, HTML and CSS
+I enjoy Robotic and Aerospace Engineering 
 
-## 1. The "About Me" (The Intro)
-Think of this as your elevator pitch.
-
-* What to put: Your name, your grade/school (SJHN), and what kind of engineering you like (Robotics, Mechanical, Civil, etc.).
-* Why: It tells people who you are and what you’re interested in immediately.
+Coding in Python. Learning Java, HTML and C++
 
 ## 2. My Toolbox (The Tech Stack)
 A quick list of the tools you actually know how to use.
