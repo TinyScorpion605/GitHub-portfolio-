@@ -9,7 +9,9 @@ Grade 9 student. OSSD in progress.
 I enjoy Robotic and Aerospace Engineering 
 
 Coding in Python. Learning Java, HTML and C++
+
 Design: TinkerCad
+
 Hardware: Arduino
 
 ## 2. My Toolbox (The Tech Stack)
