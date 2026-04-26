@@ -1,6 +1,6 @@
 # GitHub-portfolio
 
-##
+## About Me 
 
 Hello, I am Xaltim (Temporary name)
 
@@ -9,17 +9,13 @@ Grade 9 student. OSSD in progress.
 I enjoy Robotic and Aerospace Engineering 
 
 Coding in Python. Learning Java, HTML and C++
+Design: TinkerCad
+Hardware: Arduino
 
 ## 2. My Toolbox (The Tech Stack)
-A quick list of the tools you actually know how to use.
+A quick list of the tools you actually know how to use..
 
-* What to put:
-* Languages: (e.g., Python, C++, Scratch)
-   * Hardware: (e.g., Arduino, Raspberry Pi, VEX Robotics)
-   * Design: (e.g., Onshape, Tinkercad, AutoCAD)
-* Why: It shows a hiring manager or a club leader exactly what you can contribute to a team.
-
-## 3. Current Projects (The "What I'm Doing")
+## Current Projects
 A list of things you are working on right now.
 
 * What to put: A 1-sentence description of your current project and what step you are on (e.g., "Building a remote-controlled car—currently wiring the motors").
