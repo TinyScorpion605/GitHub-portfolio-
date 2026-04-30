@@ -51,4 +51,52 @@ Engineering is about always learning new things.
    3. Use Headers: Use # for big titles and ### for smaller section titles.
    4. Use Bullets: Use - or * to make lists easy to read.
 
+
 Since you're in Grade 9, do you have one specific project (even a small one from class or a hobby) that we could turn into your first "Featured Project"?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
