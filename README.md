@@ -26,9 +26,9 @@ Your best 2 or 3 projects.
   * Goal: A device that tests human reaction speed
   * Build: Used an LED, Arduino, and Jumper Cables
     
-- Binary Counter
-  * Goal: A circuit that counts in binary code (1s and 0s)
-  * Build: Used an Arduino and an LED
+- Excel Automation sheet
+  * Goal: Automatically solve and graph an Excel spreadsheet
+  * Build: Python's openpyxl(Excel) library
   
 - Python File Sorter
   * Goal: A Python code that sorts txt, jpeg and pdf files into respective folders.
