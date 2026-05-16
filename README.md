@@ -21,7 +21,7 @@ Tools: VS Code, GitHub, Aseprite
 - Building and installing plugins for games
 
 ## Featured Projects (The "Big Wins")
-Your best 2 or 3 projects.
+
 - Arduino Reaction Time Tester
   * Goal: A device that tests human reaction speed
   * Build: Used an LED, Arduino, and Jumper Cables
@@ -35,7 +35,6 @@ Your best 2 or 3 projects.
   * Build: Used Python's pathlib library
 
 ## Goals (The "What's Next")
-Engineering is about always learning new things.
 
 - Learn and Master Java
 - Build Python Automations
