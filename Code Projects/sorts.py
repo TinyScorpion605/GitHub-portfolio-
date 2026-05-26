@@ -1,4 +1,5 @@
 import test
+#test is a module I created run this sort program.
 
 start = test.FileSort()
 x = start.jpg_sort()
