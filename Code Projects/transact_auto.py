@@ -1,3 +1,4 @@
+#IMPORTANT: I had to reference openpyxl functions on YouTube, Python and Google to know how to use them
 import openpyxl as xl
 from openpyxl.chart import BarChart, Reference
 
