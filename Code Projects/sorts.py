@@ -1,5 +1,6 @@
 import test
-#test is a module I created run this sort program.
+#test is a module I created run this sort program. 
+#Unfortunately, I lost the test file ;(
 
 start = test.FileSort()
 x = start.jpg_sort()
