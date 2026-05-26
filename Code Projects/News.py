@@ -1,13 +1,15 @@
 import smtplib
+# This code is to check if an email has 'Dear' and 'From' in the email.
 
 def send_email(sender, recipient, password, email):
-    server = smtplib.SMTP('smtp.gmail.com', 587)
+    #Will login as sender and send the email to recipient
     server.starttls()
     server.login(sender, password)
     server.sendmail(sender, recipient, email)
     server.quit()
 
 def checker(email):
+    # Checks for 'Dear' and 'From'
     if 'Dear' and 'From' not in email:
         print('Please add "Dear (Recipient)" to the start of the email and "From (Sender)" to the end of the email')
         send = False
