@@ -2,7 +2,7 @@
 
 ## About Me 
 
-Hello, I am Xaltim (Temporary name)
+Hello, I am Xaltim (Digital name)
 
 Grade 9 student. OSSD in progress.
 
