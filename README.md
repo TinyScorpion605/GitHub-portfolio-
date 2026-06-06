@@ -42,10 +42,4 @@ Tools: VS Code, GitHub, Aseprite
 
 ## Contact (How to find you)
 
-* What to put: Your school email or a link to your LinkedIn (if you have one).
-
-------------------------------
-## How to write it on your own:
-
-   3. Use Headers: Use # for big titles and ### for smaller section titles.
-   4. Use Bullets: Use - or * to make lists easy to read.
+timibabem541@gmail.com
