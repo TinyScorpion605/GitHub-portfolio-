@@ -1,3 +1,4 @@
+#Depth First Search Algorithm
 graph = {
     "A": ["B", "C", "D", "E"],
     "B": ["E", "F", "G"],
