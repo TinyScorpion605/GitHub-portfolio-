@@ -30,15 +30,15 @@ Tools: VS Code, GitHub, Aseprite
   * Goal: Automatically solve and graph an Excel spreadsheet
   * Build: Python's openpyxl(Excel) library
   
-- Python File Sorter
-  * Goal: A Python code that sorts txt, jpeg and pdf files into respective folders.
-  * Build: Used Python's pathlib library
+- Depth First Search
+  * Goal: A rough python code that moves through scattered nodes to find the target node
+  * Build: Visual Studio Code
 
 ## Goals (The "What's Next")
 
 - Learn and Master Java
 - Build Python Automations
-- Look into Medical Fields
+- Look into Engineering Fields
 
 ## Contact (How to find you)
 
