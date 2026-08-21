@@ -23,10 +23,10 @@ def checker(email):
         send = True
     return send
 
-email = '''Dear Timi,
+email = '''Dear User,
 If this works; congrats. You we're able to automate the email.
 From,
-Timi'''
+User'''
 
 sender = input("Enter the sender's email: ")
 receive = input("Enter the recipient's email: ")
